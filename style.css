@@ -1,0 +1,19 @@
+#container-h1{
+    margin-left: 20px;
+}
+
+#container-ol{
+    margin-left: 10px;
+}
+
+button{
+    padding: 30px 50px;
+}
+
+#container-btns{
+    display: inline-flex;
+}
+
+.container-btn{
+    margin: 10px;
+}
